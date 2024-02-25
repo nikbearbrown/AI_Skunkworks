@@ -1,2 +1,4 @@
-# AI_Skunkworks
-AI Skunkworks
+# AI Skunkworks
+
+AI Skunkworks, spearheaded by Nik Bear Brown at Northeastern University, stands as an experiential AI playground with a mission to leverage technology and AI in teaching research, creativity, and entrepreneurial thinking and skills. This innovative experiential AI program aims to blend technology and artificial intelligence to foster research, creativity, and entrepreneurial skills. At its core is the philosophy of "learning AI by doing AI," encouraging students to engage in hands-on projects that apply AI knowledge to real-world scenarios. The program underscores the importance of mentorship by linking experienced AI practitioners with novices for collaboration on open-source projects, thereby enriching the learning experience. It also prides itself on a vast community of thousands of students and mentors, dedicated to AI research and practical applications, further demonstrating its achievements and contributions to the AI field through its extensive repository. This initiative not only equips students for industry challenges but also seeks to address societal issues through AI, marking its leadership role in educational AI integration. A comprehensive list of its accomplishments can be found at AI Skunkworks - What We Have Done? [https://github.com/nikbearbrown/AI_Skunkworks/What_We_Have_Done].
+
